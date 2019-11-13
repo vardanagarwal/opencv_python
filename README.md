@@ -1,2 +1,2 @@
-# acm_cv
-course created for teaching in acm muj schap
+# opencv in python
+programs created using opencv in python.
